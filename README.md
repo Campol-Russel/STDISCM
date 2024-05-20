@@ -1,3 +1,3 @@
 ## Instructions
 
-Input 
+Input upper limit and thread count
